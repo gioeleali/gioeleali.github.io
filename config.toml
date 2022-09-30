@@ -1,3 +1,117 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+ baseURL = "https://gioeleali.github.io/"
+title = "Gioele Alì"
+paginate = 5
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageAltTitle = "Italiano"
+weight = 1
+title = "Portfolio"
+
+  [languages.en.taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+  [languages.en.profileMode]
+  enabled = true
+  title = "Gioele Alì"
+  imageUrl = "https://img.seadn.io/files/79c47ad8259580bdf28ec26cbee21568.png?fit=max&w=1000"
+  imageTitle = "ProfileMode image"
+  subtitle = "Semplicemente io, incuriosito da questo affascinante e strano mondo della programmazione."
+
+    [[languages.en.profileMode.buttons]]
+    name = "Curriculum Vitae"
+    url = "about"
+
+[[languages.en.menu.main]]
+name = "Indice"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Hobby"
+url = "posts/hobby/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Meme"
+url = "posts/meme/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Modding"
+url = "posts/modding-android/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Bot"
+url = "posts/telegram-bot/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Cerca"
+url = "search/"
+weight = 11
+
+[[languages.en.menu.main]]
+name = "Tag"
+url = "tags/"
+weight = 10
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/gioeleali"
+
+[[params.socialIcons]]
+name = "reddit"
+url = "https://reddit.com/u/gioeleali"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/JK7BWpUE"
+
+[params.assets]
+disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
