@@ -40,26 +40,6 @@ url = "archives"
 weight = 5
 
 [[languages.en.menu.main]]
-name = "Hobby"
-url = "posts/hobby/"
-weight = 10
-
-[[languages.en.menu.main]]
-name = "Meme"
-url = "posts/meme/"
-weight = 10
-
-[[languages.en.menu.main]]
-name = "Modding"
-url = "posts/modding-android/"
-weight = 10
-
-[[languages.en.menu.main]]
-name = "Bot"
-url = "posts/telegram-bot/"
-weight = 10
-
-[[languages.en.menu.main]]
 name = "Cerca"
 url = "search/"
 weight = 11
