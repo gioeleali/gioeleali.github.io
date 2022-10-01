@@ -1,4 +1,4 @@
- baseURL = "https://gioeleali.github.io/portfolio"
+ baseURL = "https://gioeleali.github.io/"
 title = "Gioele Alì"
 paginate = 5
 theme = "PaperMod"
