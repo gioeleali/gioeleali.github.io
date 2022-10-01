@@ -44,10 +44,10 @@ name = "Cerca"
 url = "search/"
 weight = 11
 
-[[languages.en.menu.main]]
-name = "Tag"
-url = "tags/"
-weight = 10
+#[[languages.en.menu.main]]
+#name = "Tag"
+#url = "tags/"
+#weight = 10
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
