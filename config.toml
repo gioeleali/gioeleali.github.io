@@ -34,10 +34,10 @@ title = "Gioele Alì"
     name = "Curriculum Vitae"
     url = "about"
 
-[[languages.en.menu.main]]
-name = "Indice"
-url = "archives"
-weight = 5
+#[[languages.en.menu.main]]
+#name = "Indice"
+#url = "archives"
+#weight = 5
 
 [[languages.en.menu.main]]
 name = "Cerca"
