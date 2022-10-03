@@ -52,6 +52,12 @@ weight = 11
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
+[params]
+favicon_ico = "favicon.ico"
+favicon_ico_sizes = "16x16 32x32"
+appleicon = "apple-touch-icon"
+
+
 [[params.socialIcons]]
 name = "telegram"
 url = "https://t.me/gioeleali"
