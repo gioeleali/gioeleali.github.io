@@ -7,5 +7,5 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<img style="float: right;" src="/medley.png" alt="alt" width="200"/>
-<img src="/husky.png" alt="alt" width="305"/>
+<img src="/medley.png" alt="alt" width="200"/>
+<img src="/husky.png" alt="alt" width="200"/>
