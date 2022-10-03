@@ -7,6 +7,5 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<h1>Ciao!</h1>
+<b>Ciao!</b>
 <a href="/Esame di Stato Gioele Alì.zip" download>Maturità Gioele</a>
-
