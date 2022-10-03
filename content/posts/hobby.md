@@ -8,4 +8,4 @@ TocOpen: false
 ---
 
 <img style="float: right;" src="/medley.png" alt="alt" width="200"/>
-<img src="/husky1.png" alt="alt" width="305"/>
+<img src="/husky.png" alt="alt" width="305"/>
