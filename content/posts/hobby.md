@@ -8,4 +8,4 @@ TocOpen: false
 ---
 
 <img src="/medley.png" alt="alt" width="200"/>
-<img src="/husky.png" alt="alt" width="200"/>
+<img src="/husky.png" alt="alt" width="305"/>
