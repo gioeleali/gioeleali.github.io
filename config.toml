@@ -26,7 +26,7 @@ title = "Gioele Alì"
   [languages.en.profileMode]
   enabled = true
   title = "Gioele Alì"
-  imageUrl = "https://media-exp1.licdn.com/dms/image/C4E03AQFs4w21m0N-JA/profile-displayphoto-shrink_800_800/0/1598707861253?e=1670457600&v=beta&t=nGT7wsxMoQLSmjAsQzXql8KknjcDelv8nQl5TUHqbJw"
+  imageUrl = "/me.jpg"
   imageTitle = "ProfileMode image"
   subtitle = "Semplicemente io, incuriosito da questo affascinante e strano mondo della programmazione."
 
