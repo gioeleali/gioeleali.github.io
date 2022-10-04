@@ -57,6 +57,9 @@ favicon_ico = "favicon.ico"
 favicon_ico_sizes = "16x16 32x32"
 appleicon = "apple-touch-icon"
 
+[[params.socialIcons]]
+name = "whatsapp"
+url = " https://wa.me/393426685681"
 
 [[params.socialIcons]]
 name = "telegram"
@@ -72,11 +75,7 @@ url = "https://instagram.com/gioeleali"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/gioeleali"
-
-[[params.socialIcons]]
-name = "discord"
-url = "https://discord.gg/JK7BWpUE"
+url = "https://.linkedin.com/in/gioeleali/"
 
 [params.assets]
 disableHLJS = true
