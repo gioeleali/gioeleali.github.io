@@ -58,16 +58,16 @@ favicon_ico_sizes = "16x16 32x32"
 appleicon = "apple-touch-icon"
 
 [[params.socialIcons]]
-name = "whatsapp"
-url = " https://wa.me/393426685681"
-
-[[params.socialIcons]]
 name = "telegram"
 url = "https://t.me/gioeleali"
 
 [[params.socialIcons]]
 name = "reddit"
 url = "https://reddit.com/u/gioeleali"
+
+[[params.socialIcons]]
+name = "whatsapp"
+url = " https://wa.me/393426685681"
 
 [[params.socialIcons]]
 name = "instagram"
