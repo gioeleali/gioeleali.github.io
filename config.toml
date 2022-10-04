@@ -28,7 +28,7 @@ title = "Gioele Alì"
   title = "Gioele Alì"
   imageUrl = "/me.jpg"
   imageTitle = "ProfileMode image"
-  subtitle = "Semplicemente io, incuriosito da questo affascinante e strano mondo della programmazione."
+  subtitle = "Anno 2001, appassionato di tecnologia e motori e incuriosito da questo affascinante e strano mondo della programmazione."
 
     [[languages.en.profileMode.buttons]]
     name = "Curriculum Vitae"
