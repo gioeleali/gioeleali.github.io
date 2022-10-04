@@ -67,6 +67,14 @@ name = "reddit"
 url = "https://reddit.com/u/gioeleali"
 
 [[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/gioeleali"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/gioeleali"
+
+[[params.socialIcons]]
 name = "discord"
 url = "https://discord.gg/JK7BWpUE"
 
