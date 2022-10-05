@@ -1,7 +1,7 @@
 ---
 title: "Gioele Alì"
 description: "Perito Informatico"
-ShowToc: false ##true
+ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
 ShowReadingTime: false
@@ -10,7 +10,7 @@ hidemeta: true
 hidefooter: true
 ---
 
-Nato il 24 novembre 2001<br>
+<i>Nato il 24 novembre 2001</i><br>
 Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
 📞 <b><a href="tel:+393426685681">(+39) 3426685681</a></b><br>
 ✉️ gioeleali2001@gmail.com<br>
