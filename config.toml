@@ -32,6 +32,10 @@ title = "Gioele Alì"
 
     [[languages.en.profileMode.buttons]]
     name = "Curriculum Vitae"
+    url = "curriculum-vitae"
+
+    [[languages.en.profileMode.buttons]]
+    name = "Chi sono"
     url = "about"
 
 #[[languages.en.menu.main]]
