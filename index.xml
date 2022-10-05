@@ -54,13 +54,22 @@
     
     <item>
       <title>Gioele Alì</title>
+      <link>https://gioeleali.github.io/curriculum-vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gioeleali.github.io/curriculum-vitae/</guid>
+      <description>Perito Informatico</description>
+    </item>
+    
+    
+    <item>
+      <title>Su di me</title>
       <link>https://gioeleali.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gioeleali.github.io/about/</guid>
-      <description>Perito Informatico</description>
+      <description>info</description>
     </item>
-    
     
   </channel>
 </rss>
