@@ -7,6 +7,13 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
+<div style="float:left; margin - right:1em;"><img src="/medley.png"/>
+<div style="float:left; margin - right:1em;"><img src="/booster.png"/>
+<div style="float:left; margin - right:1em;"><img src="/husky.png"/>
+
+Scopri di più: https://www.monacodesign.it/html/due-immagini-accanto-usando-html/
+
+
 <img src="/booster.png" alt="alt" width="200"/> <img src="/medley.png" alt="alt" width="200"/> <img src="/husky.png" alt="alt" width="200"/>
 
 <br>
