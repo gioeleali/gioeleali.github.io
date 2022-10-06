@@ -9,4 +9,4 @@ TocOpen: false
 
 <img src="/medley.png" alt="alt" width="200"/>
 <img src="/husky.png" alt="alt" width="305"/>
-<img src="/booster.png" alt="alt" width="275"/>
+<img src="/booster.png" alt="alt" width="200"/>
