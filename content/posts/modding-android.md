@@ -8,5 +8,5 @@ TocOpen: false
 ---
 
 <img src="/alcatel.png" alt="alt" width="200"/>
-<img src="/j5.png" alt="alt" width="200"/>
-<img src="/rn7.png" alt="alt" width="200"/>
+<img src="/j5.png" alt="alt" width="225"/>
+<img src="/rn7.png" alt="alt" width="275"/>
