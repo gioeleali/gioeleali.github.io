@@ -70,10 +70,6 @@ name = "reddit"
 url = "https://reddit.com/u/gioeleali"
 
 [[params.socialIcons]]
-name = "whatsapp"
-url = " https://wa.me/393426685681"
-
-[[params.socialIcons]]
 name = "instagram"
 url = "https://instagram.com/gioeleali"
 
