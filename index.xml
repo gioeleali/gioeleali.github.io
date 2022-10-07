@@ -53,6 +53,15 @@
     
     
     <item>
+      <title>Chi sono?</title>
+      <link>https://gioeleali.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gioeleali.github.io/about/</guid>
+      <description>Mi presento, sono Gioele...</description>
+    </item>
+    
+    <item>
       <title>Gioele Alì</title>
       <link>https://gioeleali.github.io/curriculum-vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,15 +78,6 @@
       
       <guid>https://gioeleali.github.io/posts/scuola/</guid>
       <description>scuola</description>
-    </item>
-    
-    <item>
-      <title>Su di me</title>
-      <link>https://gioeleali.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gioeleali.github.io/about/</guid>
-      <description>info</description>
     </item>
     
   </channel>
