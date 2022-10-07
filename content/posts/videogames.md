@@ -5,7 +5,6 @@ date: "2022-09-30"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
-draft: true
 ---
 
 videogiochi
