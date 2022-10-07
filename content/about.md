@@ -10,4 +10,4 @@ hidemeta: true
 hidefooter: true
 ---
 
-Su di me
+Ciao! Userò questo piccolo spazio su internet come archivio personale. 
