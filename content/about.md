@@ -1,13 +1,13 @@
 ---
 title: "Chi sono?"
 description: "Mi presento, sono Gioele..."
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
 ShowReadingTime: false
 disableShare: true
 hidemeta: true
-hidefooter: true
+hidefooter: false
 ---
 
 <b>Ciao!</b><br>
