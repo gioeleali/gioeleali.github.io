@@ -16,13 +16,4 @@ Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
 
 <br>
 
-<iframe width="420" height="345" src="https://www.youtube.com/31fGGrrP97c">
-</iframe>
-
-<br>
-
-<bgsound src="/sound.mp3" loop="1">
-
-<br>
-
 
