@@ -16,9 +16,10 @@ Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
 
 <br>
 
-<audio controls>
-  <source src="/static/sound.mp3" type="audio/mp3">
-</audio>
+<object data="sound.mp3" type="audio/mpeg">
+  <param name="autostart" value="true">
+  <param name="loop" value="false">
+</object>
 
 <br>
 
