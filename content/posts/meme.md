@@ -21,7 +21,7 @@ Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
 
 <br>
 
-<bgsound src="sound.mp3" loop="1">
+<bgsound src="/sound.mp3" loop="1">
 
 <br>
 
