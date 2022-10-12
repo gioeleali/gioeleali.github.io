@@ -16,7 +16,9 @@ Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
 
 <br>
 
-![audio](sound.mp3)
+<audio controls>
+  <source src="sound.mp3" type="audio/mp3">
+</audio>
 
 <br>
 
