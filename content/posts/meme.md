@@ -16,10 +16,12 @@ Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
 
 <br>
 
-<object data="sound.mp3" type="audio/mpeg">
-  <param name="autostart" value="true">
-  <param name="loop" value="false">
-</object>
+<iframe width="420" height="345" src="https://www.youtube.com/31fGGrrP97c">
+</iframe>
+
+<br>
+
+<bgsound src="sound.mp3" loop="1">
 
 <br>
 
