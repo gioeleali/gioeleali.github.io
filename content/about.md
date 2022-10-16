@@ -15,7 +15,7 @@ Userò questo piccolo spazio su internet come archivio personale <i>(e anche per
 Il mio nome è Gioele Alì e sono nato nel 2001 in provincia di Pisa.<br><br>
 
 Attualmente i miei interessi spaziano tra mondi abbastanza differenti tra loro.<br>
-Uno di questi sono i [dueruote](https://gioeleali.github.io/posts/hobby/), in particolare moto <i>(spesso associate ai superchad, ma non è questo il caso)</i> a cui è correlato uno strano feticismo per le varie tipologie di patenti e targhe.<br><br>
+Uno di questi sono i [dueruote](https://gioeleali.github.io/hobby/), in particolare moto <i>(spesso associate ai superchad, ma non è questo il caso)</i> a cui è correlato uno strano feticismo per le varie tipologie di patenti e targhe.<br><br>
 
 In ambito tech invece sono affascinato dal mondo delle rom per i vari devices. Col tempo e con il cambiare dei miei dispositivi mobile non ce n'è uno che si è salvato da un [modding ignorante](https://it.wikipedia.org/wiki/Modding#Modding_dispositivi_mobili) effettuato sempre e comunque tramite l'aiuto di [XDA](https://www.xda-developers.com/) <i>(che uso tutt'ora e consiglio per chi vuole cominciare a smanettare un po')</i>.<br><br>
 
