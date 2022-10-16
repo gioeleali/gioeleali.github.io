@@ -17,6 +17,6 @@ Husquarna Svartpiler 401 2021
 <br>
 
 <div style="border: 1px solid #000">
-    <img src="/booster.png" alt="booster" style="float:left;margin: 10px">
+    <img src="/booster.png" alt="booster" style="float:left" width="175">
     <p>Booster 100 mbk</p>
 </div> 
