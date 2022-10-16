@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gioeleali.github.io/</loc>
+    <loc>https://gioeleali.github.io/videogames/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gioeleali.github.io/posts/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gioeleali.github.io/posts/videogames/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gioeleali.github.io/posts/meme/</loc>
+    <loc>https://gioeleali.github.io/meme/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gioeleali.github.io/posts/telegram-bot/</loc>
+    <loc>https://gioeleali.github.io/telegram-bot/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gioeleali.github.io/posts/modding-android/</loc>
+    <loc>https://gioeleali.github.io/modding-android/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gioeleali.github.io/posts/hobby/</loc>
+    <loc>https://gioeleali.github.io/hobby/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gioeleali.github.io/categories/</loc>
@@ -29,11 +23,13 @@
   </url><url>
     <loc>https://gioeleali.github.io/about/</loc>
   </url><url>
+    <loc>https://gioeleali.github.io/</loc>
+  </url><url>
     <loc>https://gioeleali.github.io/curriculum-vitae/</loc>
   </url><url>
     <loc>https://gioeleali.github.io/archives/</loc>
   </url><url>
-    <loc>https://gioeleali.github.io/posts/scuola/</loc>
+    <loc>https://gioeleali.github.io/scuola/</loc>
   </url><url>
     <loc>https://gioeleali.github.io/series/</loc>
   </url><url>
