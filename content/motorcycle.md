@@ -13,3 +13,10 @@ TocOpen: false
 Yamaha Booster 100 mbk 2002
 Piaggio Medley 125 ABS 2016
 Husquarna Svartpiler 401 2021 
+
+<br>
+
+<div style="border: 1px solid #000">
+    <img src="/booster.png" alt="booster" style="float:left;margin: 10px">
+    <p>Booster 100 mbk</p>
+</div> 
