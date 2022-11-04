@@ -14,6 +14,7 @@ hidefooter: true
 Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
 ☎️ <b><a href="tel:+393426685681">(+39) 3426685681</a></b><br>
 📧 gioeleali2001@gmail.com<br>
+Linkedin {{< inTextImg url="/in.png" height="14" >}}
 
 ---
 
@@ -73,4 +74,4 @@ Valutazione: <b>73/100</b>.
 ---
 
 <center><h6>Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 del Regolamento UE 2016/679 relativo
-alla protezione delle persone fisiche con riguardo al trattamento dei dati personali</h6></centre>
+alla protezione delle persone fisiche con riguardo al trattamento dei dati personali</h6></center>
