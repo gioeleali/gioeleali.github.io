@@ -16,9 +16,13 @@ Auguro a tutti di trovare un qualcosa che anche solo per pochi minuti ti distacc
 
 
 <div style="border: 1px solid #000">
-    <img src="husky.png" alt="husky" style="float: left; margin: 10px">
+    <img src="/husky.png" alt="husky" style="float: left; margin: 10px">
     <p>A fine estate 2021 decido di prendere una decisione importante: permutare il Medley per comprare quella che era il mio sogno all'epoca <i>(e continua ad essere tutt'ora)</i>, la Svartpilen 401, scrambler in stile retrò riproposta in chiave moderna, linee pazzesche, monocilindrico pauroso e 44 cavalli che per divertirsi secondo me sono più che giusti. È un passaggio importante, il passaggio dallo scooter alla moto, dal cambio automatico al cambio manuale, il passaggio a questa bella <i>(e costosa)</i> ma strana community dei motociclisti, un mondo enorme di cui prima ero all'oscuro e che tutt'ora sto esplorando per formarmi e crescere.<br>
     Auguro a tutti di trovare un qualcosa che anche solo per pochi minuti ti distacchi dal mondo reale per avere un po' di spensieratezza, e che preferibilemente non sia droga.</p>
 </div> 
+
+<div style="float: left; margin-right: 4px">
+<img src="/husky.png"></div> <p align="left">A fine estate 2021 decido di prendere una decisione importante: permutare il Medley per comprare quella che era il mio sogno all'epoca <i>(e continua ad essere tutt'ora)</i>, la Svartpilen 401, scrambler in stile retrò riproposta in chiave moderna, linee pazzesche, monocilindrico pauroso e 44 cavalli che per divertirsi secondo me sono più che giusti. È un passaggio importante, il passaggio dallo scooter alla moto, dal cambio automatico al cambio manuale, il passaggio a questa bella <i>(e costosa)</i> ma strana community dei motociclisti, un mondo enorme di cui prima ero all'oscuro e che tutt'ora sto esplorando per formarmi e crescere.<br>
+    Auguro a tutti di trovare un qualcosa che anche solo per pochi minuti ti distacchi dal mondo reale per avere un po' di spensieratezza, e che preferibilemente non sia droga.</p>
 
 <img src="/booster.png" alt="Yamaha Booster 100 MBK 2002" width="175"/> <img src="/medley.png" alt="Piaggio Medley 125 ABS 2016" width="200"/> <img src="/husky.png" alt="Husqvarna Svartpilen 401 2021" width="225"/>
