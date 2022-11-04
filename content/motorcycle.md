@@ -5,7 +5,7 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<i>Uno storico dei mezzi a dueruote utilizzati nella parte della mia crescita. Anche loro meritano un loro spazio, pur essendo dei pezzi di metallo mi hanno dato tanto.</i><br><br>
+<i>Ho deciso di dedicare uno spazio ai miei mezzi, pezzi di metallo che però a me hanno trasmesso parecchie emozioni.</i><br><br>
 
 La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di diventare autonomo negli spostamenti, non mi è mai piaciuto né dipendere dai miei genitori né dipendere dei mezzi pubblici.<br><br>
 
