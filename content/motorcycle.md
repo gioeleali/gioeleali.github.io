@@ -5,9 +5,9 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<b>Ho deciso di dedicare uno spazio ai miei mezzi, pezzi di metallo che però a me hanno trasmesso parecchie emozioni.</b>✨<br><br>
+<b><i>Ho deciso di dedicare uno spazio ai miei mezzi, pezzi di metallo che però a me hanno trasmesso parecchie emozioni.</i></b>✨<br><br>
 
-> La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di diventare autonomo negli spostamenti, non mi è mai piaciuto né dipendere dai miei genitori né dipendere dei mezzi pubblici.<br>
+La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di diventare autonomo negli spostamenti, non mi è mai piaciuto né dipendere dai miei genitori né dipendere dei mezzi pubblici.<br>
 
 <div style="float: left; margin-right: 4px">
 <img src="/booster.png" alt="Yamaha Booster 100 MBK 2002" width="175"/></div>
