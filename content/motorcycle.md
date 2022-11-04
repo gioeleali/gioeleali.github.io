@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<img src="/booster.png" alt="alt" width="175"/> <img src="/medley.png" alt="alt" width="200"/> <img src="/husky.png" alt="alt" width="225"/>
+<img src="/booster.png" alt="MBK Booster 100 Kat 2001" width="175"/> <img src="/medley.png" alt="Piaggio Medley 125 ABS 2016" width="200"/> <img src="/husky.png" alt="Husqvarna Svartpilen 401 2021" width="225"/>
 
 <br>
 Yamaha Booster 100 mbk 2002
