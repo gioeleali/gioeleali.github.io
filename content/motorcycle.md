@@ -16,7 +16,7 @@ La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di dive
 
 <div style="float: right; margin-right: 4px">
 <img src="/medley.png" alt="Piaggio Medley 125 ABS 2016" width="200"/></div>
-    <p align="right">Superato il trauma, con l'aiuto dei miei genitori, mi sono portato a casa il Medley 125 del 2016, un scooter molto gettonato dai 16enni per la sua comodità e la sua agilità in rapporto qualità-prezzo. Rispetto al Booster, mettendo da parte i 25cc in più, era molto più anonimo, ma non posso nascondere che per i 2 anni e mezzo in cui l'ho utilizzato, macinandoci più di 20 mila km, sia stato veramente un bel compagno di viaggio.<br><br></p>
+    <p align="left">Superato il trauma, con l'aiuto dei miei genitori, mi sono portato a casa il Medley 125 del 2016, un scooter molto gettonato dai 16enni per la sua comodità e la sua agilità in rapporto qualità-prezzo. Rispetto al Booster, mettendo da parte i 25cc in più, era molto più anonimo, ma non posso nascondere che per i 2 anni e mezzo in cui l'ho utilizzato, macinandoci più di 20 mila km, sia stato veramente un bel compagno di viaggio.<br><br></p>
 
 <div style="float: left; margin-right: 4px">
 <img src="/husky.png" alt="Husqvarna Svartpilen 401 2021" width="225"/></div>
