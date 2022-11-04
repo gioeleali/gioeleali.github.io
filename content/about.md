@@ -1,6 +1,5 @@
 ---
-title: "Chi sono?"
-description: "Mi presento, sono Gioele..."
+title: "Un po' di me"
 ShowToc: false
 ShowBreadCrumbs: false
 TocOpen: false
