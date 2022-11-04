@@ -1,11 +1,11 @@
 ---
 title: "Motocicli e Ciclomotori"
-date: "2022-09-23"
-description: "<i>Uno storico dei mezzi a dueruote utilizzati nella parte della mia crescita. Anche loro meritano un loro spazio, pur essendo dei pezzi di metallo mi hanno dato tanto.</i>"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
 ---
+
+<i>Uno storico dei mezzi a dueruote utilizzati nella parte della mia crescita. Anche loro meritano un loro spazio, pur essendo dei pezzi di metallo mi hanno dato tanto.</i><br><br>
 
 La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di diventare autonomo negli spostamenti, non mi è mai piaciuto né dipendere dai miei genitori né dipendere dei mezzi pubblici.<br><br>
 
