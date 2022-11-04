@@ -27,7 +27,7 @@ title = "Gioele Alì"
   enabled = true
   title = "Gioele Alì"
   imageUrl = "/me.jpg"
-  imageTitle = "ProfileMode image"
+  imageTitle = "Immagine del Profilo Gioele Alì"
   subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione."
 
     [[languages.en.profileMode.buttons]]
