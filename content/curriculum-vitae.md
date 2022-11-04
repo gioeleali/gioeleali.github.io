@@ -14,7 +14,7 @@ hidefooter: true
 Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
 ☎️ <b><a href="tel:+393426685681">(+39) 3426685681</a></b><br>
 📧 gioeleali2001@gmail.com<br>
-<a href="https://linkedin.com/in/gioeleali/">Linkedin {{< inTextImg url="/in.png" height="15" >}}</a>
+<a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="noopener noreferrer">Linkedin {{< inTextImg url="/in.png" height="15" >}}</a>
 
 ---
 
