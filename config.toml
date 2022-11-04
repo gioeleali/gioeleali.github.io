@@ -73,10 +73,6 @@ url = "https://reddit.com/u/gioeleali"
 name = "instagram"
 url = "https://instagram.com/gioeleali"
 
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://.linkedin.com/in/gioeleali/"
-
 [params.assets]
 disableHLJS = true
 
