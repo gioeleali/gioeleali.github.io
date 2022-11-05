@@ -16,7 +16,7 @@ disableXML = true
 [languages.en]
 languageAltTitle = "Italiano"
 weight = 1
-title = "🇮🇹 Gioele Alì"
+title = "Gioele Alì"
 
   [languages.en.taxonomies]
   category = "categories"
