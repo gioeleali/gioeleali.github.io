@@ -1,19 +1,16 @@
 ---
-title: "Meme"
-date: "2022-09-26"
-description: "['mi:m]"
+title: "I meme: la salvezza della censura"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-Immagini divertenti, questa per molti è la definizione di meme, foto con aggiunta di una didascalia buffa o di un semplice ritocco per fare satira su un qualsiasi tipo di argomento e tema. La cosa importante da capire è che non ci sono limiti, paragonabile ad un libro, un quadro, un film o un brano musicale.
-Talvolta i meme possono essere considerati veri e propri pezzi d'arte.
+Mettiamo subito in chiaro una cosa, che vi piaccia o meno la pronuncia è ['mi:m].
 
-### Esempio meme
+Immagini, GIF e video con aggiunta di una didascalia buffa o di un semplice ritocco per fare satira su un qualsiasi tipo di argomento e tema, questo sono i meme. Spesso e volentieri mi tirano su di morale, ribaltando giornate iniziate decisamente con il piede sbagliato. Ci sono innumerevoli tipi di umorismo, per questo è molto probabile che ognuno di noi possa trovare la propria cerchia di meme.
+
+Personalemente reputo i meme veri e propri pezzi d'arte.
+
+<i>Uno dei tanti meme sull'ondata "Montale dice Pascoli..."</i>
 
 {{< youtube 31fGGrrP97c >}}
-
-<br>
-
-
