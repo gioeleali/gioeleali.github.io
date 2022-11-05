@@ -10,7 +10,7 @@ hidefooter: true
 ---
 
 <div style="float: right; margin-right: 4px">
-<img src="/gioele-ali.png" alt="Gioele Alì" width="150"/></div>
+<img src="/gioele-ali.png" alt="Gioele Alì" width="120"/></div>
     <p align="left"><h1>Gioele Alì</h1>
 <h3>Perito Informatico</h3>
 
