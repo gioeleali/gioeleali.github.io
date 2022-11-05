@@ -24,4 +24,4 @@ Come app di messaggistica adoro <b>Telegram</b>, ritengo che niente in questo mo
 
 Infine sono innamorato dei [**meme**](https://gioeleali.github.io/meme/) e della loro cultura <i>(vi consiglio <a href="https://knowyourmeme.com/" target="_blank" rel="noopener noreferrer">questo sito</a> a proposito)</i>: immagini e video, editati e non, che riescono a strappare una risata. Spesso vengono usati anche come tramite per dire una verità scomoda, senza andare contro la censura.
 
-Ringrazio <a href="https://www.micheleviotto.it/it/" target="_blank" rel="noopener noreferrer">Michele Viotto</a> per l'incipit della creazione di questo sito.🫂
+Ringrazio <a href="https://www.micheleviotto.it/it/" target="_blank" rel="noopener noreferrer">Michele Viotto</a> per l'incipit nella creazione di questo sito.🫂
