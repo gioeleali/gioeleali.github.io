@@ -1,5 +1,5 @@
 baseURL = "https://gioeleali.github.io/"
-title = "🇮🇹 Gioele Alì"
+title = "Gioele Alì"
 paginate = 5
 theme = "PaperMod"
 enableInlineShortcodes = true
@@ -16,7 +16,7 @@ disableXML = true
 [languages.en]
 languageAltTitle = "Italiano"
 weight = 1
-title = "Gioele Alì"
+title = 🇮🇹 Gioele Alì"
 
   [languages.en.taxonomies]
   category = "categories"
