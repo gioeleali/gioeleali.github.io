@@ -66,8 +66,8 @@ name = "telegram"
 url = "https://t.me/gioeleali"
 
 [[params.socialIcons]]
-name = "reddit"
-url = "https://reddit.com/u/gioeleali"
+name = "github"
+url = "https://github.com/gioeleali"
 
 [[params.socialIcons]]
 name = "instagram"
