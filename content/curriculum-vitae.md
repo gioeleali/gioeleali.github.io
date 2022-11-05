@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
-description: "<b>Gioele Alì</b>\nPerito Informatico"
+description: "**Gioele Alì**
+Perito Informatico"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
