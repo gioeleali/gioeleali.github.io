@@ -1,7 +1,5 @@
 ---
 title: "Curriculum Vitae"
-description: "**Gioele Alì**
-Perito Informatico"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
@@ -10,6 +8,9 @@ disableShare: true
 hidemeta: true
 hidefooter: true
 ---
+
+<h1>Gioele Alì</h1>
+<h3>Perito Informatico</h3>
 
 <i>Nato il 24 novembre 2001</i><br>
 Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
