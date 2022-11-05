@@ -9,7 +9,7 @@ hidemeta: true
 hidefooter: true
 ---
 
-<a href="/Curriculum Vitae Gioele Alì.pdf" download><h1>Gioele Alì</h1></a>
+<a href="/Curriculum Vitae Gioele Alì.pdf" style="text-decoration: none" download><h1>Gioele Alì</h1></a>
 <h3>Perito Informatico</h3>
 
 <i>Nato il 24 novembre 2001</i><br>
