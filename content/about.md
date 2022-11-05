@@ -23,3 +23,5 @@ In ambito <b>tech</b> invece sono affascinato dal mondo delle <b>rom per i vari 
 Come app di messaggistica adoro <b>Telegram</b>, ritengo che niente in questo mondo sia perfetto, ma quest'applicazione ci si avvicina mostruosamente. Nel primi due anni delle scuole superiori ho tentato <a href="/Bot Telegram.zip" download>qualche esperimento sui <b>bot di Telegram in PHP</b></a>, mi impegnavo sul rendere esteticamente un bot curato, peccando un po' sulla parte funzionale, su cui sto lavorando tutt'ora per migliorare.<br><br>
 
 Infine sono innamorato dei [**meme**](https://gioeleali.github.io/meme/) e della loro cultura <i>(vi consiglio <a href="https://knowyourmeme.com/" target="_blank" rel="noopener noreferrer">questo sito</a> a proposito)</i>: immagini e video, editati e non, che riescono a strappare una risata. Spesso vengono usati anche come tramite per dire una verità scomoda, senza andare contro la censura.
+
+Ringrazio <a href="https://www.micheleviotto.it/it/" target="_blank" rel="noopener noreferrer">Michele Viotto</a> per l'incipit della creazione di questo sito.🫂
