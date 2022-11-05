@@ -20,17 +20,6 @@ Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
 📧 gioeleali2001@gmail.com<br>
 LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">{{< inTextImg url="/in.png" height="17" >}}</a></p>
 
-<br><br>
-
-<h1>Gioele Alì</h1>
-<h3>Perito Informatico</h3>
-
-<i>Nato il 24 novembre 2001</i><br>
-Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
-☎️ <b><a href="tel:+393426685681">(+39) 3426685681</a></b><br>
-📧 gioeleali2001@gmail.com<br>
-LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">{{< inTextImg url="/in.png" height="17" >}}</a>
-
 ---
 
 ### ESPERIENZA
