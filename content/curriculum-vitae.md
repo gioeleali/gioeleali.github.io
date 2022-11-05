@@ -45,14 +45,14 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" style="text-decoration
 ### ISTRUZIONE
 #### I.I.S.L. Da Vinci-Fascetti, Via Contessa Matilde 74, 56123 Pisa - <i>Diploma di Perito Informatico</i>
 <p style="font-size:13px">SETTEMBRE 2015 - GIUGNO 2020</p>
-Valutazione: <b>73/100</b>.
+Valutazione: <a href="/Diploma Gioele Alì.pdf" download><b>73/100</b></a>.
 
 ---
 
 ### CERTIFICAZIONI
 #### Google Digital Training
 <p style="font-size:13px">4 FEBBRAIO 2022</p>
-- Fondamenti di Marketing Digitale.
+- <a href="/Certificato Google Gioele Alì.pdf" download>Fondamenti di Marketing Digitale</a>.
 
 ---
 
