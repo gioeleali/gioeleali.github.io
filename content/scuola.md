@@ -10,3 +10,8 @@ TocOpen: false
 Ho frequentato l'istituto Da Vinci-Fascetti di Pisa indirizzo informatico
 
 <a href="/Esame di Stato Gioele Alì.zip" download>Maturità Gioele</a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gioeleali" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/gioeleali?trk=profile-badge">Gioele Alì</a></div>
+              
