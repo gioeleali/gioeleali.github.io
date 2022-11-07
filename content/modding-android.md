@@ -5,7 +5,7 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
- Parto col dire che già nel sangue avevo questa mania di modificare qualsiasi cosa, mi diverto ad <b>estrarre, editare e ri-firmare gli <a href="https://it.wikipedia.org/wiki/APK_(formato_di_file)" target="_blank" rel="noopener noreferrer">apk</a></b> per personalizzarli, moddare i giochi e tutte queste azioni da hackerino. <b>Personalizzazione</b>: questa la chiave, <b>rendere unico il tuo device</b>, a questo proposito, il <b>modding android</b> <a href="https://en.wikipedia.org/wiki/Rooting_(Android)" target="_blank" rel="noopener noreferrer"><i>(root)</i></a> e le <a href="https://it.wikipedia.org/wiki/Read_Only_Memory#ROM_dispositivi_mobiliROM" target="_blank" rel="noopener noreferrer"><b>ROM</b></a> in particolare lo permettono.⚙️<br><br>
+ Parto col dire che già nel sangue ho questa mania di modificare qualsiasi cosa, mi diverto ad <b>estrarre, editare e ri-firmare gli <a href="https://it.wikipedia.org/wiki/APK_(formato_di_file)" target="_blank" rel="noopener noreferrer">apk</a></b> per personalizzarli, moddare i giochi e tutte queste azioni da hackerino. <b>Personalizzazione</b>: questa la chiave, <b>rendere unico il tuo device</b>, a questo proposito, il <b>modding android</b> <a href="https://en.wikipedia.org/wiki/Rooting_(Android)" target="_blank" rel="noopener noreferrer"><i>(root)</i></a> e le <a href="https://it.wikipedia.org/wiki/Read_Only_Memory#ROM_dispositivi_mobiliROM" target="_blank" rel="noopener noreferrer"><b>ROM</b></a> in particolare lo permettono.⚙️<br><br>
 
 <div style="float: left; margin-right: 15px">
 <img src="/alcatel.png" alt="Alcatel Onetouch Pop C3" width="100"/></div>
