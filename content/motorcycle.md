@@ -5,7 +5,7 @@ ShowBreadCrumbs: false
 TocOpen: false
 ---
 
-<b><i>Ho deciso di dedicare uno spazio ai miei mezzi, pezzi di metallo che però a me hanno trasmesso parecchie emozioni.</i></b>✨<br><br>
+<i>Ho deciso di dedicare uno spazio ai miei mezzi, pezzi di metallo che però a me hanno trasmesso parecchie emozioni.</i>✨<br><br>
 
 La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di diventare autonomo negli spostamenti, non mi è mai piaciuto né dipendere dai miei genitori né dipendere dei mezzi pubblici.<br>
 
@@ -23,4 +23,4 @@ La storia del mio primo mezzo nasce dalla necessità <i>(e volontà)</i> di dive
     <p align="left">A fine estate 2021 decido di prendere una decisione importante: permutare il Medley per comprare quella che era il mio sogno all'epoca <i>(e continua ad essere tutt'ora)</i>: la <a href="https://www.moto.it/listino/husqvarna/svartpilen-401/svartpilen-401-2021-22/yXf7Dv" target="_blank" rel="noopener noreferrer">Svartpilen 401</a>, scrambler in stile retrò riproposta in chiave moderna, linee pazzesche, monocilindrico pauroso e 44 cavalli che per divertirsi secondo me sono più che giusti. È un passaggio importante, il passaggio dallo scooter alla moto, dal cambio automatico al cambio manuale, il passaggio a questa bella <i>(e costosa)</i> ma strana community dei motociclisti, un mondo enorme di cui prima ero all'oscuro e che tutt'ora sto esplorando per formarmi e crescere.<a href="https://www.inmoto.it/news/curiosita/2022/09/01-5670255/saluto_tra_motociclisti_perche_lo_facciamo_e_come_e_nato_" target="_blank" rel="noopener noreferrer">✌🏼</a><br><br></p>
 
 
-> Auguro a tutti di trovare un qualcosa che anche solo per pochi minuti ti distacchi dal mondo reale per avere un po' di spensieratezza, e che preferibilemente non siano droghe pesanti.💉🚫
+> Auguro a tutti di trovare un qualcosa che anche solo per pochi minuti ti distacchi dal mondo reale per avere un po' di spensieratezza, e che preferibilemente non siano droghe pesanti.💀
