@@ -11,11 +11,11 @@ TocOpen: false
 
 <div style="float: right; margin-right: 4px">
 <img src="/j5.png" alt="Samsung Galaxy J5 2015" width="100"/></div>
-    <p align="left">Con l'arrivo di questo dispositivo iniziano le prime modifiche "serie", dopo circa 3 anni di utilizzo con la <a href="https://it.wikipedia.org/wiki/TouchWiz" target="_blank" rel="noopener noreferrer">TouchWiz</a> decido di cambiare <a href="https://it.wikipedia.org/wiki/Read_Only_Memory#ROM_dispositivi_mobiliROM" target="_blank" rel="noopener noreferrer">ROM</a>, ne ho provate diverse, quelle che ho tenuto per più tempo sono state:
-     • <a href="https://lineageos.org/" target="_blank" rel="noopener noreferrer">LineageOS</a>,
-     • <a href="https://download.pixelexperience.org/" target="_blank" rel="noopener noreferrer">Pixel Experience</a>,
-     • <a href="https://evolution-x.org/" target="_blank" rel="noopener noreferrer">Evolution X</a>,
-     • <a href="https://resurrectionremix.com/" target="_blank" rel="noopener noreferrer">Resurretion Remix OS</a>.
+    <p align="left">Con l'arrivo di questo dispositivo iniziano le prime modifiche "serie", dopo circa 3 anni di utilizzo con la <a href="https://it.wikipedia.org/wiki/TouchWiz" target="_blank" rel="noopener noreferrer">TouchWiz</a> decido di cambiare <a href="https://it.wikipedia.org/wiki/Read_Only_Memory#ROM_dispositivi_mobiliROM" target="_blank" rel="noopener noreferrer">ROM</a>, ne ho provate diverse, quelle che ho tenuto per più tempo sono state:<br>
+     • <a href="https://lineageos.org/" target="_blank" rel="noopener noreferrer">LineageOS</a>,<br>
+     • <a href="https://download.pixelexperience.org/" target="_blank" rel="noopener noreferrer">Pixel Experience</a>,<br>
+     • <a href="https://evolution-x.org/" target="_blank" rel="noopener noreferrer">Evolution X</a>,<br>
+     • <a href="https://resurrectionremix.com/" target="_blank" rel="noopener noreferrer">Resurretion Remix OS</a>.<br>
     Per addentrarmi in questo mondo è stato fondamentale <a href="https://www.xda-developers.com/" target="_blank" rel="noopener noreferrer">XDA Developers</a>, menzionato pure nel <a href="https://www.freeonline.org/migliori/migliori-siti-per-android.html" target="_blank" rel="noopener noreferrer">mio articolo per freeonline.org</a>.</p>
 
 <div style="float: left; margin-right: 4px">
