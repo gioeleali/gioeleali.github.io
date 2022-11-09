@@ -6,3 +6,5 @@ ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
 ---
+
+<a rel="me" href="https://mastodon.uno/@gioeleali">Mastodon</a>
