@@ -15,21 +15,13 @@
     </item>
     
     <item>
-      <title>Telegram Bot</title>
-      <link>https://gioeleali.github.io/telegram-bot/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gioeleali.github.io/telegram-bot/</guid>
-      <description>telegram bot</description>
-    </item>
-    
-    <item>
       <title>Archivio</title>
       <link>https://gioeleali.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gioeleali.github.io/archive/</guid>
-      <description>Archivio di file generali</description>
+      <description>Archivio di file generali
+Maturità Gioele</description>
     </item>
     
     
@@ -91,15 +83,6 @@ Userò questo piccolo spazio su internet come archivio personale.
 Il mio nome è Gioele Alì e sono nato nel 2001 in provincia di Pisa.
 Attualmente i miei interessi spaziano tra mondi abbastanza differenti tra loro.
 Uno di questi sono i dueruote, in particolare moto (spesso associate ai chad, ma non è questo il caso) a cui è correlato uno strano feticismo per le varie tipologie di patenti e targhe.</description>
-    </item>
-    
-    <item>
-      <title>Scuola</title>
-      <link>https://gioeleali.github.io/scuola/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gioeleali.github.io/scuola/</guid>
-      <description>scuola</description>
     </item>
     
   </channel>
