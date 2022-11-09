@@ -1,6 +1,5 @@
 ---
 title: "Modding Android"
-hideSummary: false
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
