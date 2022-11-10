@@ -15,7 +15,7 @@ hidefooter: true
 <h3>Perito Informatico</h3>
 
 <i>Nato il 24 novembre 2001</i><br>
-Via Charles Darwin 10, 56017 San Giuliano Terme (PI)<br>
+<a href="https://www.google.it/maps/place/Via+Charles+Darwin,+10,+56010+Metato+PI/@43.7753511,10.3726519,17z/data=!3m1!4b1!4m5!3m4!1s0x12d5909fcd99c701:0xb7068edcd80c369d!8m2!3d43.7753472!4d10.3748406">Via Charles Darwin 10, 56017 San Giuliano Terme (PI)</a><br>
 ☎️ <b><a href="tel:+393426685681">(+39) 3426685681</a></b><br>
 📧 gioeleali2001@gmail.com<br>
 LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">{{< inTextImg url="/in.png" height="17" >}}</a></p>
