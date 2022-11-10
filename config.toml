@@ -44,12 +44,12 @@ title = "Gioele Alì"
 #weight = 5
 
 [[languages.en.menu.main]]
-name = "Moto"
+name = "🏍"
 url = "motorcycle"
 weight = 11
 
 [[languages.en.menu.main]]
-name = "Tech"
+name = "📱"
 url = "modding-android"
 weight = 11
 
