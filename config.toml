@@ -46,12 +46,12 @@ title = "Gioele Alì"
 [[languages.en.menu.main]]
 name = "🏍️"
 url = "motorcycle"
-weight = 11
+weight = 5
 
 [[languages.en.menu.main]]
 name = "📱"
 url = "modding-android"
-weight = 11
+weight = 5
 
 [[languages.en.menu.main]]
 name = "Cerca"
