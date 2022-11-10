@@ -6,15 +6,6 @@
     <description>Recent content on Gioele Alì</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://gioeleali.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Videogames</title>
-      <link>https://gioeleali.github.io/videogames/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gioeleali.github.io/videogames/</guid>
-      <description>pokemon</description>
-    </item>
-    
-    <item>
       <title>Archivio</title>
       <link>https://gioeleali.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,7 +31,7 @@ LinkedIn ➤ ESPERIENZA Openjobmetis SpA presso Mitsuba Italia Spa, Via Marco Bi
     </item>
     
     <item>
-      <title>I meme: la salvezza della censura</title>
+      <title>Meme</title>
       <link>https://gioeleali.github.io/meme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -82,6 +73,15 @@ Userò questo piccolo spazio su internet come archivio personale.
 Il mio nome è Gioele Alì e sono nato nel 2001 in provincia di Pisa.
 Attualmente i miei interessi spaziano tra mondi abbastanza differenti tra loro.
 Uno di questi sono i dueruote, in particolare moto (spesso associate ai chad, ma non è questo il caso) a cui è correlato uno strano feticismo per le varie tipologie di patenti e targhe.</description>
+    </item>
+    
+    <item>
+      <title>Videogames</title>
+      <link>https://gioeleali.github.io/videogames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gioeleali.github.io/videogames/</guid>
+      <description> </description>
     </item>
     
   </channel>
