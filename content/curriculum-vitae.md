@@ -74,7 +74,7 @@ Tecnico della progettazione, sviluppo, testing del software.
 - Autonomia e responsabilità <i>(acquisite grazie all’esperienza scout nel gruppo AGESCI Pisa 4 dal 2013 al 2018)</i>.
 
 #### Lingue conosciute
-- Inglese - livello intermedio
+- Inglese - <b>B2</b>
 
 #### Patente di guida
 - <b>A1, A2, B.</b>
