@@ -2,5 +2,5 @@
 title: "Cerca"
 layout: "search"
 summary: "search"
-placeholder: "inserisci una parola chiave"
+placeholder: "Inserisci una parola chiave🔑..."
 ---

@@ -1,5 +1,5 @@
 ---
-title: "I meme: la salvezza della censura"
+title: "Meme"
 ShowToc: true
 ShowBreadCrumbs: false
 TocOpen: false
