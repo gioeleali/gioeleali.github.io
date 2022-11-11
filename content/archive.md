@@ -7,12 +7,12 @@ TocOpen: false
 
 Piccola legenda delle pagine presenti attulalmente all'interno del sito.📦
 
-<a href="https://gioeleali.github.io/motorcycle/">Motocicli e Ciclomotori</a>
-<a href="https://gioeleali.github.io/modding-android/">Modding Android</a>
-<a href="https://gioeleali.github.io/curriculum-vitae/">Curriculum Vitae</a>
-<a href="https://gioeleali.github.io/about/">Presentazione</a>
-<a href="https://gioeleali.github.io/videogames/">Videogames</a>
-<a href="https://gioeleali.github.io/meme/">Meme</a>
+<a href="https://gioeleali.github.io/motorcycle/">Motocicli e Ciclomotori</a><br>
+<a href="https://gioeleali.github.io/modding-android/">Modding Android</a><br>
+<a href="https://gioeleali.github.io/curriculum-vitae/">Curriculum Vitae</a><br>
+<a href="https://gioeleali.github.io/about/">Presentazione</a><br>
+<a href="https://gioeleali.github.io/videogames/">Videogames</a><br>
+<a href="https://gioeleali.github.io/meme/">Meme</a><br>
 
 Link utili:
 
