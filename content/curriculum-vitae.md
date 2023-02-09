@@ -53,7 +53,7 @@ Valutazione: <a href="/Diploma Gioele Alì.pdf" download><b>73/100</b></a>.
 
 #### ITS Prodigi, Via Giosuè Carducci 39, 56010 Pisa - <i>Full Stack Software Developer</i>
 <p style="font-size:13px">OTTOBRE 2022 - PRESENTE</p>
-Tecnico della progettazione, sviluppo, testing del software.
+- Tecnico della progettazione, sviluppo, testing del software.
 
 ---
 
@@ -61,6 +61,13 @@ Tecnico della progettazione, sviluppo, testing del software.
 #### Google Digital Training
 <p style="font-size:13px">4 FEBBRAIO 2022</p>
 - <a href="/Certificato Google Gioele Alì.pdf" download>Fondamenti di Marketing Digitale</a>.
+
+---
+
+### VOLONTARIATO
+#### Antincendio Boschivo - <i>Volontario</i>
+<p style="font-size:13px">GENNAIO 2023 - PRESENTE</p>
+- Volontario presso la Pubblica Assistenza di Migliarino.
 
 ---
 
