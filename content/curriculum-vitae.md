@@ -49,7 +49,7 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="n
 ### ISTRUZIONE
 #### I.I.S.L. Da Vinci-Fascetti, Via Contessa Matilde 74, 56123 Pisa - <i>Diploma di Perito Informatico</i>
 <p style="font-size:13px">SETTEMBRE 2015 - GIUGNO 2020</p>
-Valutazione: <a href="/Diploma Gioele Alì.pdf" download><b>73/100</b></a>.
+- Valutazione: <a href="/Diploma Gioele Alì.pdf" download><b>73/100</b></a>.
 
 #### ITS Prodigi, Via Giosuè Carducci 39, 56010 Pisa - <i>Full Stack Software Developer</i>
 <p style="font-size:13px">OTTOBRE 2022 - PRESENTE</p>
