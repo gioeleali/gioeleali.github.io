@@ -43,15 +43,15 @@ title = "Gioele Alì"
 #url = "archives"
 #weight = 5
 
-[[languages.en.menu.main]]
-name = "Archivio"
-url = "archive"
-weight = 10
+#[[languages.en.menu.main]]
+#name = "Archivio"
+#url = "archive"
+#weight = 10
 
-[[languages.en.menu.main]]
-name = "Cerca"
-url = "search/"
-weight = 11
+#[[languages.en.menu.main]]
+#name = "Cerca"
+#url = "search/"
+#weight = 11
 
 #[[languages.en.menu.main]]
 #name = "Tag"
