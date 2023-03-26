@@ -34,9 +34,9 @@ title = "Gioele Alì"
     name = "Curriculum Vitae"
     url = "curriculum-vitae"
 
-    [[languages.en.profileMode.buttons]]
-    name = "Chi sono"
-    url = "about"
+    #[[languages.en.profileMode.buttons]]
+    #name = "Chi sono"
+    #url = "about"
 
 #[[languages.en.menu.main]]
 #name = "Indice"
@@ -74,9 +74,9 @@ url = "https://t.me/gioeleali"
 name = "github"
 url = "https://github.com/gioeleali"
 
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/gioeleali"
+#[[params.socialIcons]]
+#name = "instagram"
+#url = "https://instagram.com/gioeleali"
 
 [params.assets]
 disableHLJS = true
