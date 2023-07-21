@@ -9,6 +9,9 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
+languages:
+  en:
+    disabled: true
 
 [minify]
 disableXML = true
