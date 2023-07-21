@@ -23,6 +23,10 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="n
 ---
 
 ### ESPERIENZA
+#### TD Group Italia srl, Via del Fischione 19, 56019 Vecchiano - <i>Stagista</i>
+<p style="font-size:13px">2 MAGGIO 2023 - 14 LUGLIO 2023</p>
+- Sviluppo di applicazioni Spring Boot secondo le linee guida aziendali.
+
 #### Openjobmetis SpA presso Mitsuba Italia Spa, Via Marco Biagi 12, 56025 Pontedera - <i>Addetto al montaggio</i>
 <p style="font-size:13px">2 NOVEMBRE 2021 - 29 LUGLIO 2022</p>
 - Montaggio di rotori per moto di grossa cilindrata.
@@ -69,12 +73,16 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="n
 <p style="font-size:13px">GENNAIO 2023 - PRESENTE</p>
 - Volontario presso la Pubblica Assistenza di Migliarino.
 
+#### Donatore di Sangue - <i>Volontario</i>
+<p style="font-size:13px">GIUGNO 2022 - PRESENTE</p>
+- Donatore di sangue presso AVIS Cascina.
+
 ---
 
 ### COMPETENZE
 #### Competenze digitali
-- Conoscenze di <code>Java, MySQL</code>.
-- Linguaggi di programmazione: <code>C++, PHP, HTML, XML, JavaScript</code>.
+- Conoscenze di <code>Spring Boot, MySQL, MongoDB</code>.
+- Linguaggi di programmazione: <code>Java, C++, PHP, HTML, JavaScript</code>.
 - Padronanza del pacchetto Office.
 
 #### Competenze personali
