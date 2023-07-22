@@ -15,7 +15,8 @@ disable = ["XML"]
 
 [languages]
   [languages.it]
-    languageName = "ITALIANO"
+    languageLabel = "IT"
+    languageName = "Italiano"
     weight = 1
     title = "Gioele Alì"
 
@@ -36,7 +37,8 @@ disable = ["XML"]
         url = "curriculum-vitae-it"
 
   [languages.en]
-    languageName = "ENGLISH"
+    languageLabel = "EN"
+    languageName = "English"
     weight = 2
     title = "Gioele Alì"
 
