@@ -15,7 +15,7 @@ disable = ["XML"]
 
 [languages]
   [languages.it]
-    languageName = "Italiano"
+    languageName = "ITALIANO"
     weight = 1
     title = "Gioele Alì"
 
@@ -33,10 +33,10 @@ disable = ["XML"]
 
       [[languages.it.params.profileMode.buttons]]
         name = "Curriculum Vitae"
-        url = "curriculum-vitae"
+        url = "curriculum-vitae-it"
 
   [languages.en]
-    languageName = "English"
+    languageName = "ENGLISH"
     weight = 2
     title = "Gioele Alì"
 
@@ -49,12 +49,12 @@ disable = ["XML"]
       enabled = true
       title = "Gioele Alì"
       imageUrl = "/me.jpg"
-      imageTitle = "Immagine del Profilo Gioele Alì"
-      subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
+      imageTitle = "Profile Picture Gioele Ali"
+      subtitle = "Year 2001, passionate about technology and engines, intrigued by this fascinating and strange world of programming.💡"
 
       [[languages.en.params.profileMode.buttons]]
         name = "Curriculum Vitae"
-        url = "curriculum-vitae"
+        url = "curriculum-vitae-en"
 
 #[menu]
 #  [[menu.main]]
