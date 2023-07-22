@@ -10,6 +10,10 @@ buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
 
+[languages]
+  [languages.es]
+    disabled = true
+
 [minify]
 disableXML = true
 
