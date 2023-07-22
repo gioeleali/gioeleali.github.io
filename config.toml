@@ -8,8 +8,6 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableEmoji = true
-[params]
-  copyright = "© 2022 - 2023 [Gioele Alì](https://gioeleali.github.io) |"
 pygmentsUseClasses = true
 
 [minify]
@@ -90,6 +88,7 @@ home = ["HTML", "RSS", "JSON"]
   favicon_ico = "favicon.ico"
   favicon_ico_sizes = "16x16 32x32"
   appleicon = "apple-touch-icon"
+  copyright = "© 2022 - 2023 [Gioele Alì](https://gioeleali.github.io) |"
 
   [[params.socialIcons]]
     name = "telegram"
