@@ -8,6 +8,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableEmoji = true
+copyright = "© 2022 - 2023 [Gioele Alì](https://gioeleali.github.io) |"
 pygmentsUseClasses = true
 
 [minify]
