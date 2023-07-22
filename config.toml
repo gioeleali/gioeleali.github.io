@@ -20,6 +20,8 @@ disable = ["XML"]
     weight = 1
     title = "Gioele Alì"
 
+    defaultContentLanguage = "it"
+
     [languages.it.taxonomies]
       category = "categories"
       tag = "tags"
