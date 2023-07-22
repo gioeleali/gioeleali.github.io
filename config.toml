@@ -20,8 +20,6 @@ disable = ["XML"]
     weight = 1
     title = "Gioele Alì"
 
-    defaultContentLanguage = "it"
-
     [languages.it.taxonomies]
       category = "categories"
       tag = "tags"
@@ -59,6 +57,8 @@ disable = ["XML"]
       [[languages.en.params.profileMode.buttons]]
         name = "Curriculum Vitae"
         url = "curriculum-vitae-en"
+
+defaultContentLanguage = "it"
 
 #[menu]
 #  [[menu.main]]
