@@ -13,28 +13,69 @@ pygmentsUseClasses = true
 [minify]
 disable = ["XML"]
 
-defaultContentLanguage = "it"
-
-[languages.it]
-  languageName = "Italiano"
-  weight = 1
-  title = "Gioele Alì"
-
-  [languages.it.taxonomies]
-    category = "categories"
-    tag = "tags"
-    series = "series"
-
-  [languages.it.params.profileMode]
-    enabled = true
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    weight = 1
     title = "Gioele Alì"
-    imageUrl = "/me.jpg"
-    imageTitle = "Immagine del Profilo Gioele Alì"
-    subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
 
-    [[languages.it.params.profileMode.buttons]]
-      name = "Curriculum Vitae"
-      url = "curriculum-vitae"
+    [languages.it.taxonomies]
+      category = "categories"
+      tag = "tags"
+      series = "series"
+
+    [languages.it.params.profileMode]
+      enabled = true
+      title = "Gioele Alì"
+      imageUrl = "/me.jpg"
+      imageTitle = "Immagine del Profilo Gioele Alì"
+      subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
+
+      [[languages.it.params.profileMode.buttons]]
+        name = "Curriculum Vitae"
+        url = "curriculum-vitae"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Gioele Alì"
+
+    [languages.en.taxonomies]
+      category = "categories"
+      tag = "tags"
+      series = "series"
+
+    [languages.en.params.profileMode]
+      enabled = true
+      title = "Gioele Alì"
+      imageUrl = "/me.jpg"
+      imageTitle = "Immagine del Profilo Gioele Alì"
+      subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
+
+      [[languages.en.params.profileMode.buttons]]
+        name = "Curriculum Vitae"
+        url = "curriculum-vitae"
+
+#[menu]
+#  [[menu.main]]
+#    name = "Indice"
+#    url = "archives"
+#    weight = 5
+
+#  [[menu.main]]
+#    name = "Archivio"
+#    url = "archive"
+#    weight = 10
+
+#  [[menu.main]]
+#    name = "Cerca"
+#    url = "search/"
+#    weight = 11
+
+#  [[menu.main]]
+#    name = "Tag"
+#    url = "tags/"
+#    weight = 10
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
