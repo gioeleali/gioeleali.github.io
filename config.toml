@@ -35,27 +35,6 @@ disable = ["XML"]
         name = "Curriculum Vitae"
         url = "curriculum-vitae"
 
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    title = "Gioele Alì"
-
-    [languages.en.taxonomies]
-      category = "categories"
-      tag = "tags"
-      series = "series"
-
-    [languages.en.params.profileMode]
-      enabled = true
-      title = "Gioele Alì"
-      imageUrl = "/me.jpg"
-      imageTitle = "Immagine del Profilo Gioele Alì"
-      subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
-
-      [[languages.en.params.profileMode.buttons]]
-        name = "Curriculum Vitae"
-        url = "curriculum-vitae"
-
 #[menu]
 #  [[menu.main]]
 #    name = "Indice"
@@ -93,7 +72,6 @@ home = ["HTML", "RSS", "JSON"]
     name = "github"
     url = "https://github.com/gioeleali"
 
-  # Uncomment the following section if you want to add an Instagram social icon
   #[[params.socialIcons]]
   #name = "instagram"
   #url = "https://instagram.com/gioeleali"
