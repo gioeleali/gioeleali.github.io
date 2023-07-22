@@ -10,54 +10,50 @@ buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
 
-[languages]
-  [languages.en]
-    disabled = true
-
 [minify]
 disableXML = true
 
-[languages.en]
+[languages]
 languageAltTitle = "Italiano"
 weight = 1
 title = "Gioele Alì"
 
-  [languages.en.taxonomies]
+  [languages.taxonomies]
   category = "categories"
   tag = "tags"
   series = "series"
 
-  [languages.en.profileMode]
+  [languages.profileMode]
   enabled = true
   title = "Gioele Alì"
   imageUrl = "/me.jpg"
   imageTitle = "Immagine del Profilo Gioele Alì"
   subtitle = "Anno 2001, appassionato di tecnologia e motori, incuriosito da questo affascinante e strano mondo della programmazione.💡"
 
-    [[languages.en.profileMode.buttons]]
+    [[languages.profileMode.buttons]]
     name = "Curriculum Vitae"
     url = "curriculum-vitae"
 
-    #[[languages.en.profileMode.buttons]]
+    #[[languages.profileMode.buttons]]
     #name = "Chi sono"
     #url = "about"
 
-#[[languages.en.menu.main]]
+#[[languages.menu.main]]
 #name = "Indice"
 #url = "archives"
 #weight = 5
 
-#[[languages.en.menu.main]]
+#[[languages.menu.main]]
 #name = "Archivio"
 #url = "archive"
 #weight = 10
 
-#[[languages.en.menu.main]]
+#[[languages.menu.main]]
 #name = "Cerca"
 #url = "search/"
 #weight = 11
 
-#[[languages.en.menu.main]]
+#[[languages.menu.main]]
 #name = "Tag"
 #url = "tags/"
 #weight = 10
