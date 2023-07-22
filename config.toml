@@ -34,7 +34,7 @@ disable = ["XML"]
 
       [[languages.it.params.profileMode.buttons]]
         name = "Curriculum Vitae"
-        url = "curriculum-vitae-it"
+        url = "it/curriculum-vitae-it"
 
   [languages.en]
     languageCode = "EN"
