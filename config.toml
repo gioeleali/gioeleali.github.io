@@ -15,7 +15,6 @@ disable = ["XML"]
 
 [languages]
   [languages.it]
-    languageCode = "IT"
     languageName = "Italiano"
     weight = 1
     title = "Gioele Alì"
@@ -34,10 +33,9 @@ disable = ["XML"]
 
       [[languages.it.params.profileMode.buttons]]
         name = "Curriculum Vitae"
-        url = "it/curriculum-vitae-it"
+        url = "curriculum-vitae-it"
 
   [languages.en]
-    languageCode = "EN"
     languageName = "English"
     weight = 2
     title = "Gioele Alì"
@@ -57,8 +55,6 @@ disable = ["XML"]
       [[languages.en.params.profileMode.buttons]]
         name = "Curriculum Vitae"
         url = "curriculum-vitae-en"
-
-defaultContentLanguage = "it"
 
 #[menu]
 #  [[menu.main]]
