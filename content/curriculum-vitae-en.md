@@ -83,7 +83,7 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="n
 ### SKILLS
 #### Digital Skills
 - Knowledge of <code>Spring Boot, MySQL, MongoDB</code>.
-- Programming languages: <code>Java, C++, PHP, HTML, JavaScript</code>.
+- Programming languages: <code>Java, C++, Python, PHP, HTML, JavaScript</code>.
 - Proficiency in the Office suite.
 
 #### Personal Skills
