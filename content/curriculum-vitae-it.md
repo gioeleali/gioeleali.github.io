@@ -82,7 +82,7 @@ LinkedIn ➤ <a href="https://linkedin.com/in/gioeleali/" target="_blank" rel="n
 ### COMPETENZE
 #### Competenze digitali
 - Conoscenze di <code>Spring Boot, MySQL, MongoDB</code>.
-- Linguaggi di programmazione: <code>Java, C++, PHP, HTML, JavaScript</code>.
+- Linguaggi di programmazione: <code>Java, C++, Python, PHP, HTML, JavaScript</code>.
 - Padronanza del pacchetto Office.
 
 #### Competenze personali
