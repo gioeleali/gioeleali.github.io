@@ -18,6 +18,7 @@ disable = ["XML"]
     languageName = "Italiano"
     weight = 1
     title = "Gioele Alì"
+    baseURL = "https://gioeleali.github.io/it/"
 
     [languages.it.taxonomies]
       category = "categories"
@@ -39,6 +40,7 @@ disable = ["XML"]
     languageName = "English"
     weight = 2
     title = "Gioele Alì"
+    baseURL = "https://gioeleali.github.io/en/"
 
     [languages.en.taxonomies]
       category = "categories"
